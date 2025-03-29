@@ -1,16 +1,69 @@
-<h1 align="center">Hi 👋, I'm Willian Kennedy dos Santos Brito</h1>
-<h3 align="center">A curious developer from Brazil</h3>
+<h1 align="center">Olá, eu sou Willian Kennedy 👋</h1>
+<h3 align="center">💻 Desenvolvedor Backend | ☁️ Cloud Enthusiast | 📊 Data Lover</h3>
 
-- 📫 How to reach me **willian.kennedy.brito@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/willian-kennedy-dos-santos-brito-892b41311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willian kennedy dos santos brito" height="30" width="40" /></a>
+## 🚀 Sobre mim  
+- 🎓 **Formação**: Bacharelado em Ciências da Computação  
+- 💼 **Trabalho**: Backend Developer (Java + Spring Boot)  
+- 🏆 **Certificações**: AWS Cloud Practitioner (CLF-C02)  
+- 📚 **Atualmente estudando**: Python | Dash | Plotly | C  
+- 🎯 **Interesses**: Arquitetura de Software, Ciência de Dados, Big Data  
+- 🥋 **Hobbies**: Praticante de Jiu-Jitsu  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+
+### 🚀 **Linguagens & Frameworks**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 📡 **Cloud & DevOps**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedy-brito&show_icons=true&locale=en&layout=compact" alt="kennedy-brito" /></p>
+### 🗄️ **Bancos de Dados & APIs**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennedy-brito&show_icons=true&locale=en" alt="kennedy-brito" /></p>
+---
+
+## 🌟 Projetos Destacados  
+
+🔹 [**DQN Board Game AI**](https://github.com/kennedy-brito/Ddqn-UESPI-IA-Projeto-NSL) - Agente de IA treinado para um jogo de tabuleiro  
+🔹 [**Medicine Reminder**](https://github.com/kennedy-brito/Trabalho_final_android) - Aplicativo Android para acompanhamento de medicamentos pessoais  
+
+📌 **Veja mais no meu repositório:** [GitHub](https://github.com/kennedy-brito?tab=repositories)  
+
+---
+
+## 📬 Como me encontrar  
+
+📩 **Email**: [willian.kennedy.brito@gmail.com](mailto:willian.kennedy.brito@gmail.com)  
+💼 **LinkedIn**: [Willian Kennedy dos Santos Brito](https://www.linkedin.com/in/willian-kennedy-dos-santos-brito-892b41311/)  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennedy-brito&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy-brito&layout=compact&langs_count=6&theme=radical"/>
+</p>
+
+---
+
+🎯 **_"Sempre aprendendo, sempre evoluindo!"_** 🚀
