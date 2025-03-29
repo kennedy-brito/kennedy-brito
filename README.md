@@ -7,7 +7,7 @@
 - 🎓 **Formação**: Bacharelado em Ciências da Computação  
 - 💼 **Trabalho**: Backend Developer (Java + Spring Boot)  
 - 🏆 **Certificações**: AWS Cloud Practitioner (CLF-C02)  
-- 📚 **Atualmente estudando**: Python | Dash | Plotly | C  
+- 📚 **Atualmente estudando**: Python | Dash | Plotly
 - 🎯 **Interesses**: Arquitetura de Software, Ciência de Dados, Big Data  
 - 🥋 **Hobbies**: Praticante de Jiu-Jitsu  
 
